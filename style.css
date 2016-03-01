@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+label
+{
+  float: left;
+  width: 300px;
+}
+th{
+	padding: 5px;
+	width: 1000px;
+	border: solid black 1px;
+}
+td{
+	padding: 5px;
+	width: 1000px;
+	border: solid black 1px;
+}
+div.container{
+	border: solid black 1px;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
